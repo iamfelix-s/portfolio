@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/drew-hays-personal-portfolio)
@@ -52,3 +53,6 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# View Now ->
+>>>>>>> origin/main
